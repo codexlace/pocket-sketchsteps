@@ -1,0 +1,32 @@
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: .55;
+  background-image:
+    radial-gradient(circle at 22px 22px, rgba(52,68,84,.12) 1.4px, transparent 1.6px),
+    linear-gradient(rgba(52,68,84,.055) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(52,68,84,.055) 1px, transparent 1px);
+  background-size: 44px 44px, 44px 44px, 44px 44px;
+  mask-image: linear-gradient(to bottom, black, transparent 86%);
+}
+body::after {
+  content: "✦";
+  position: fixed;
+  right: 1.2rem;
+  bottom: .7rem;
+  font-size: 2.2rem;
+  color: rgba(244,167,188,.5);
+  pointer-events: none;
+}
+button:focus-visible, input:focus-visible, select:focus-visible {
+  outline: 3px solid var(--accent-2);
+  outline-offset: 3px;
+}
+.lesson-card:hover, .ghost-button:hover, .icon-button:hover, .secondary-button:hover, .primary-button:hover, .step-dot:hover {
+  transform: translateY(-1px);
+}
+@media (prefers-reduced-motion: no-preference) {
+  button, .lesson-card, .step-dot { transition: transform .16s ease, background .16s ease, outline .16s ease, box-shadow .16s ease; }
+}

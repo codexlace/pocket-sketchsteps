@@ -1,0 +1,40 @@
+:root {
+  color-scheme: light;
+  --bg: #f8efe3;
+  --bg-2: #eaf2ff;
+  --paper: rgba(255, 251, 240, .92);
+  --paper-strong: #fff8ec;
+  --panel: rgba(255, 252, 243, .78);
+  --panel-strong: rgba(255, 255, 255, .92);
+  --text: #26364d;
+  --muted: #6a7184;
+  --line: rgba(52, 68, 84, .18);
+  --blueprint: #162b56;
+  --blueprint-2: #254b83;
+  --accent: #f7d36e;
+  --accent-2: #f4a7bc;
+  --accent-3: #8bbfe8;
+  --mint: #b8d7c2;
+  --ink: #1f2937;
+  --shadow: 0 22px 60px rgba(42, 51, 77, .18);
+  --soft-shadow: 0 10px 28px rgba(42, 51, 77, .12);
+  --radius-xl: 34px;
+  --radius-lg: 26px;
+  --radius-md: 18px;
+  --radius-sm: 12px;
+  --tap: 48px;
+  --font: ui-rounded, "SF Pro Rounded", "Avenir Next", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+* { box-sizing: border-box; }
+html, body { min-height: 100%; margin: 0; }
+body {
+  font-family: var(--font);
+  background:
+    radial-gradient(circle at top left, rgba(139, 191, 232, .45), transparent 32rem),
+    radial-gradient(circle at bottom right, rgba(244, 167, 188, .36), transparent 34rem),
+    linear-gradient(135deg, #fff7e8, var(--bg-2));
+  color: var(--text);
+}
+button, input, select { font: inherit; }
+button { cursor: pointer; }
+img { max-width: 100%; }
