@@ -1,0 +1,57 @@
+{
+  "id": "emotion-wheel-character",
+  "title": "Emotion Wheel Character",
+  "character_name": "Moodie Turnabout",
+  "category": "Expressions & Faces",
+  "estimated_minutes": 22,
+  "bio": "Moodie Turnabout is a round little emotion wheel who spins whenever feelings get tangled. They feel curious, wear mismatched eyebrows, and keep six tiny moods tucked like pie slices.",
+  "palette": {
+    "body": "#F2D6A8",
+    "accent": "#B8D7C2",
+    "face": "#4A392F",
+    "shadow": "#C9A16E",
+    "background": "#F1EEF8"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw one large circle. Divide it into six simple pie slices with light lines from the center.",
+      "hint": "Do not worry if the slices are uneven; cozy wheels can wobble.",
+      "image": "./assets/lesson-images/emotion-wheel-character-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, add a tiny face in each slice using simple eyes, eyebrows, and mouths for happy, sad, mad, sleepy, scared, and silly.",
+      "hint": "Eyebrows are the quickest way to show each emotion.",
+      "image": "./assets/lesson-images/emotion-wheel-character-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add a small center button, labels, cheek dots, tiny stars, and a little arrow pointing to one mood.",
+      "hint": "Keep each slice detail tiny so all six faces fit comfortably.",
+      "image": "./assets/lesson-images/emotion-wheel-character-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the outer circle, slice lines, faces, center button, labels, stars, cheeks, and arrow.",
+      "hint": "Use clean lines on the expressions so every mood is easy to compare.",
+      "image": "./assets/lesson-images/emotion-wheel-character-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the wheel sections, cheeks, button, and stars. Add a soft shadow below the round character.",
+      "hint": "Use gentle color changes between slices without making the faces hard to see.",
+      "image": "./assets/lesson-images/emotion-wheel-character-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}

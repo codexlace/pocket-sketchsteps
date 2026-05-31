@@ -1,0 +1,57 @@
+{
+  "id": "floating-hourglass",
+  "title": "Floating Hourglass",
+  "character_name": "Sandy Tickletime",
+  "category": "Magic Items",
+  "estimated_minutes": 21,
+  "bio": "Sandy Tickletime is a floating hourglass who loses track of minutes but remembers snack breaks perfectly. They feel dreamy, sneeze gold dust, and wiggle when time gets shy.",
+  "palette": {
+    "body": "#D8C5F2",
+    "accent": "#F2D28B",
+    "face": "#46394F",
+    "shadow": "#A795C7",
+    "background": "#EEF3F7"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw two small rectangles for the top and bottom caps. Connect them with two curved lines to make an hourglass body.",
+      "hint": "Think of the glass as two soft triangles touching in the middle.",
+      "image": "./assets/lesson-images/floating-hourglass-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two tiny eyes on the upper glass area. Add sleepy eyebrows and a small surprised mouth.",
+      "hint": "A tiny round mouth makes Sandy look gently confused by time.",
+      "image": "./assets/lesson-images/floating-hourglass-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add sand piles in both bulbs, a thin stream of falling sand, glow dots, and a few floating clock crumbs.",
+      "hint": "The sand stream is just one short line through the center.",
+      "image": "./assets/lesson-images/floating-hourglass-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the caps, glass sides, face, sand shapes, falling stream, glow dots, and clock crumbs.",
+      "hint": "Keep the glass outline clean so the sand inside is easy to see.",
+      "image": "./assets/lesson-images/floating-hourglass-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the caps, glass tint, sand, cheeks, and glow dots. Add a soft floating shadow below.",
+      "hint": "Put the shadow below the hourglass, not touching it, so it feels like it floats.",
+      "image": "./assets/lesson-images/floating-hourglass-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}

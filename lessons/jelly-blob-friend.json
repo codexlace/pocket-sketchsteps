@@ -1,0 +1,62 @@
+{
+  "id": "jelly-blob-friend",
+  "title": "Jelly Blob Friend",
+  "character_name": "Gloopy Junebug",
+  "category": "Cute Creatures",
+  "estimated_minutes": 14,
+  "bio": "Gloopy Junebug is a jelly blob friend who wiggles when anyone says pudding. They feel curious, collect shiny crumbs inside their belly, and boop every pebble hello.",
+  "palette": {
+    "body": "#B8E8E1",
+    "accent": "#F7D28B",
+    "face": "#34524E",
+    "shadow": "#82C7BF",
+    "background": "#F3EEF8"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw one big wobbly blob shape. Add a flat soft curve along the bottom so it sits on the page.",
+      "hint": "Let the outline be uneven; jelly blobs should not be perfect circles.",
+      "image": "./assets/lesson-images/jelly-blob-friend-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, draw two round eyes and a small smiling mouth. Add lifted eyebrows for a curious look.",
+      "hint": "Place the face slightly low to make the blob feel extra squishy.",
+      "image": "./assets/lesson-images/jelly-blob-friend-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add little shiny crumb shapes inside the blob, cheek circles, and a few wobble lines around the sides.",
+      "hint": "Inside details can be simple dots, stars, and tiny ovals.",
+      "image": "./assets/lesson-images/jelly-blob-friend-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the blob outline, face, crumbs, cheeks, and wobble lines. Keep the outer line smooth but bouncy.",
+      "hint": "One clear outline is better than many tiny bumps.",
+      "image": "./assets/lesson-images/jelly-blob-friend-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the jelly body and inside crumbs. Add a soft shadow below and a pale highlight on one side.",
+      "hint": "A simple curved highlight makes Gloopy look glossy and soft.",
+      "image": "./assets/lesson-images/jelly-blob-friend-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

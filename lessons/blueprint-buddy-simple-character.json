@@ -1,0 +1,57 @@
+{
+  "id": "blueprint-buddy-simple-character",
+  "title": "Blueprint Buddy (Simple Character)",
+  "character_name": "Bibi Guideline",
+  "category": "Expressions & Faces",
+  "estimated_minutes": 19,
+  "bio": "Bibi Guideline is a simple blueprint buddy who loves helping wobbly sketches feel brave. They feel cheerful, wear a sticky-note cape, and keeps tiny guide dots in their pocket.",
+  "palette": {
+    "body": "#B8D8F2",
+    "accent": "#F4C7A8",
+    "face": "#344454",
+    "shadow": "#86AFCF",
+    "background": "#F5F0DF"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a round head, a bean-shaped body, two capsule arms, and two tiny oval feet.",
+      "hint": "Use light simple shapes like a blueprint before thinking about details.",
+      "image": "./assets/lesson-images/blueprint-buddy-simple-character-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, add two oval eyes, soft eyebrows, a tiny smile, and cheek circles on the head.",
+      "hint": "Place the face low on the head for a gentle cozy look.",
+      "image": "./assets/lesson-images/blueprint-buddy-simple-character-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add a sticky-note cape, guide dots, little stars, sleeve cuffs, and a tiny pocket on the body.",
+      "hint": "Keep the cape as one simple rectangle with a wavy bottom.",
+      "image": "./assets/lesson-images/blueprint-buddy-simple-character-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the head, body, arms, feet, face, cape, pocket, guide dots, and stars with smooth lines.",
+      "hint": "Trace only the final outer shapes and leave the construction guides behind.",
+      "image": "./assets/lesson-images/blueprint-buddy-simple-character-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the body, cape, cheeks, pocket, and stars. Add a soft shadow under the feet and light dots around Bibi.",
+      "hint": "A simple shadow makes the character feel finished without extra complexity.",
+      "image": "./assets/lesson-images/blueprint-buddy-simple-character-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}

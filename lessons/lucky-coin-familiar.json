@@ -1,0 +1,57 @@
+{
+  "id": "lucky-coin-familiar",
+  "title": "Lucky Coin Familiar",
+  "character_name": "Copper Winkworth",
+  "category": "Magic Items",
+  "estimated_minutes": 16,
+  "bio": "Copper Winkworth is a lucky coin familiar who rolls toward anyone having a gloomy day. He feels cheerful, jingles when proud, and sleeps inside a sock drawer crown.",
+  "palette": {
+    "body": "#E2B46F",
+    "accent": "#F7DFA2",
+    "face": "#4A3828",
+    "shadow": "#B88448",
+    "background": "#EEF5E8"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a large circle for the coin. Add a smaller circle inside for the raised rim.",
+      "hint": "Do not worry about perfect circles; a wobbly coin feels handmade.",
+      "image": "./assets/lesson-images/lucky-coin-familiar-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, draw one open eye and one winking eye. Add a lifted eyebrow and a tiny happy grin.",
+      "hint": "A wink makes Copper look like he knows a lucky secret.",
+      "image": "./assets/lesson-images/lucky-coin-familiar-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add a small star stamp, tiny rim marks, cheek dots, and a few jingle lines beside the coin.",
+      "hint": "Rim marks can be short little dashes around part of the edge.",
+      "image": "./assets/lesson-images/lucky-coin-familiar-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the outer coin, inner rim, face, star stamp, rim marks, cheeks, and jingle lines.",
+      "hint": "Leave some rim marks out if the edge starts to feel too busy.",
+      "image": "./assets/lesson-images/lucky-coin-familiar-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the coin, star, cheeks, and rim. Add a soft shadow under one side and a bright highlight on the top edge.",
+      "hint": "A small highlight makes Copper feel shiny and lucky.",
+      "image": "./assets/lesson-images/lucky-coin-familiar-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "magic-pencil",
+  "title": "Magic Pencil",
+  "character_name": "Fizzwick Point",
+  "category": "Living Objects",
+  "estimated_minutes": 15,
+  "bio": "Fizzwick Point is a magic pencil who draws tiny doors where there should be margins. He feels mischievous, sneezes sparkles, and keeps a moon crumb stuck to his eraser.",
+  "palette": {
+    "body": "#F6C56F",
+    "accent": "#B9D8C2",
+    "face": "#3F352D",
+    "shadow": "#C28D49",
+    "background": "#F4EAF7"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a long thin rectangle for the pencil body. Add a triangle tip on one end and a small rectangle eraser on the other.",
+      "hint": "Make the pencil a little diagonal so it feels magical and active.",
+      "image": "./assets/lesson-images/magic-pencil-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, draw two small eyes on the pencil body. Add one raised eyebrow, one low eyebrow, and a tiny smirk.",
+      "hint": "Uneven eyebrows make Fizzwick look delightfully sneaky.",
+      "image": "./assets/lesson-images/magic-pencil-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add stripes near the tip, a band near the eraser, sparkle dots, and a tiny drawn door beside the pencil point.",
+      "hint": "The door can be a small rounded rectangle with one dot knob.",
+      "image": "./assets/lesson-images/magic-pencil-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the pencil shape, tip, eraser, face, bands, sparkles, and tiny door with clear simple lines.",
+      "hint": "Keep the pencil edges straight, but let the sparkles stay playful.",
+      "image": "./assets/lesson-images/magic-pencil-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the pencil, tip, eraser, and accents. Add a soft shadow below and tiny glowing dots near the point.",
+      "hint": "Place the brightest accent near the pencil tip to show where the magic starts.",
+      "image": "./assets/lesson-images/magic-pencil-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

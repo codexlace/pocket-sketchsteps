@@ -1,0 +1,62 @@
+{
+  "id": "tiny-dragon",
+  "title": "Tiny Dragon",
+  "character_name": "Brindle Puffscale",
+  "category": "Cute Creatures",
+  "estimated_minutes": 22,
+  "bio": "Brindle Puffscale is a tiny dragon who hoards warm socks instead of gold. He feels proud, sneezes smoke rings, and keeps one button treasure under his wing.",
+  "palette": {
+    "body": "#A8D8B9",
+    "accent": "#F4B6A6",
+    "face": "#34483D",
+    "shadow": "#75A987",
+    "background": "#F7EEDC"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a small oval body and a round head. Add a curved tail and two tiny oval feet.",
+      "hint": "Use simple blob shapes first; the dragon details come later.",
+      "image": "./assets/lesson-images/tiny-dragon-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two oval eyes on the head. Add proud angled eyebrows, a tiny smile, and two small nostril dots.",
+      "hint": "Lift one eyebrow a little higher to make Brindle look proud.",
+      "image": "./assets/lesson-images/tiny-dragon-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add small horns, rounded wings, back spikes, smoke rings, and a button treasure near one foot.",
+      "hint": "Draw the wings like little teardrops so they stay beginner-friendly.",
+      "image": "./assets/lesson-images/tiny-dragon-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the head, body, tail, wings, feet, face, horns, spikes, smoke rings, and button.",
+      "hint": "Keep the spikes small and rounded so the dragon stays cute, not sharp.",
+      "image": "./assets/lesson-images/tiny-dragon-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the dragon, wings, horns, cheeks, and button. Add soft shadow under the body and small belly dots.",
+      "hint": "Use a few accent dots instead of many scales to keep it simple.",
+      "image": "./assets/lesson-images/tiny-dragon-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

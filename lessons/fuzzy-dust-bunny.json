@@ -1,0 +1,62 @@
+{
+  "id": "fuzzy-dust-bunny",
+  "title": "Fuzzy Dust Bunny",
+  "character_name": "Linty Lops",
+  "category": "Cute Creatures",
+  "estimated_minutes": 16,
+  "bio": "Linty Lops is a fuzzy dust bunny who lives behind bookshelves and believes crumbs are furniture. They feel bashful, wear thread whiskers, and sneeze tiny sparkle clouds.",
+  "palette": {
+    "body": "#CFC7BF",
+    "accent": "#F2B7C6",
+    "face": "#403A36",
+    "shadow": "#A99F98",
+    "background": "#F5EFE8"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a round fluffy blob for the body. Add two long soft oval ears and two tiny feet.",
+      "hint": "Use a wobbly outline to show fuzz without drawing every hair.",
+      "image": "./assets/lesson-images/fuzzy-dust-bunny-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, draw two tiny eyes low on the face. Add shy curved eyebrows and a small dot nose with a little mouth.",
+      "hint": "A low face makes Linty look extra small and bashful.",
+      "image": "./assets/lesson-images/fuzzy-dust-bunny-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add thread whiskers, cheek dots, small fuzz tufts, crumb shapes, and a tiny sparkle sneeze cloud.",
+      "hint": "Fuzz tufts can be short curved lines around the blob edge.",
+      "image": "./assets/lesson-images/fuzzy-dust-bunny-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the fuzzy body, ears, feet, face, whiskers, crumbs, tufts, and sneeze cloud.",
+      "hint": "Do not outline every fuzz mark; choose the cutest few.",
+      "image": "./assets/lesson-images/fuzzy-dust-bunny-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the body, ears, cheeks, crumbs, and sparkle cloud. Add soft shadow under the feet.",
+      "hint": "Use tiny darker strokes around the edge to make the bunny feel fuzzy.",
+      "image": "./assets/lesson-images/fuzzy-dust-bunny-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "grumpy-book",
+  "title": "Grumpy Book",
+  "character_name": "Professor Crinklepage",
+  "category": "Living Objects",
+  "estimated_minutes": 18,
+  "bio": "Professor Crinklepage is a dusty little book who woke up grumpy after someone used a cookie as a bookmark. He sighs dramatically, hides tiny stars in his margins, and secretly loves being read aloud.",
+  "palette": {
+    "body": "#B78F72",
+    "accent": "#E8CFA8",
+    "face": "#4B3A35",
+    "shadow": "#8A6656",
+    "background": "#F7EBDD"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a soft rectangle for the book cover. Add a thinner rectangle on the right for the pages and a small curved spine on the left.",
+      "hint": "Keep the corners rounded so the book feels old, cozy, and easy to draw.",
+      "image": "./assets/lesson-images/grumpy-book-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two small oval eyes near the upper middle. Add low angled eyebrows and a tiny frown under them.",
+      "hint": "The eyebrows do most of the grumpy work, so tilt them inward.",
+      "image": "./assets/lesson-images/grumpy-book-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add page lines, a crooked bookmark, little dust specks, and a few tiny stars floating near the cover.",
+      "hint": "Use short simple lines for pages instead of drawing every sheet.",
+      "image": "./assets/lesson-images/grumpy-book-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the best lines with smooth rounded edges. Keep the eyes, frown, spine, and bookmark clear.",
+      "hint": "Skip messy guide lines and only trace what makes the character readable.",
+      "image": "./assets/lesson-images/grumpy-book-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the cover, pages, and bookmark. Add soft shadow under the book and tiny pale speckles on the cover.",
+      "hint": "Put the darkest color under the book and inside the frown for extra cozy grumpiness.",
+      "image": "./assets/lesson-images/grumpy-book-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

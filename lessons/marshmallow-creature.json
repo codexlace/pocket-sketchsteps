@@ -1,0 +1,62 @@
+{
+  "id": "marshmallow-creature",
+  "title": "Marshmallow Creature",
+  "character_name": "Puff Nibble",
+  "category": "Cute Creatures",
+  "estimated_minutes": 16,
+  "bio": "Puff Nibble is a squishy marshmallow creature who gets nervous near cocoa. They feel shy, collect crumb blankets, and leave tiny sugar footprints after midnight.",
+  "palette": {
+    "body": "#FFF1E8",
+    "accent": "#F6B8C8",
+    "face": "#4B3935",
+    "shadow": "#D9BDB4",
+    "background": "#EEF4F7"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a soft rounded square for the marshmallow body. Add two tiny oval feet underneath.",
+      "hint": "Keep the body puffy with rounded corners, like a pillow cube.",
+      "image": "./assets/lesson-images/marshmallow-creature-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two small oval eyes near the middle. Add worried little eyebrows and a tiny open mouth.",
+      "hint": "Eyebrows tilted upward in the middle make Puff look sweetly nervous.",
+      "image": "./assets/lesson-images/marshmallow-creature-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add cheek dots, little sugar speckles, a crumb blanket shape, and tiny footprints behind them.",
+      "hint": "Use small dots and short ovals so the details stay simple.",
+      "image": "./assets/lesson-images/marshmallow-creature-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the soft body, feet, face, blanket, speckles, and footprints with smooth gentle lines.",
+      "hint": "Do not press too hard on every detail; let the marshmallow feel light.",
+      "image": "./assets/lesson-images/marshmallow-creature-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the body, cheeks, blanket, and feet. Add a soft shadow underneath and pale highlights on the top edge.",
+      "hint": "A light top edge and soft bottom shadow make Puff feel extra squishy.",
+      "image": "./assets/lesson-images/marshmallow-creature-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "enchanted-compass",
+  "title": "Enchanted Compass",
+  "character_name": "Pip Northwhisper",
+  "category": "Magic Items",
+  "estimated_minutes": 20,
+  "bio": "Pip Northwhisper is an enchanted compass who points toward warm cookies instead of north. He feels determined, keeps map crumbs under his lid, and winks at lost travelers.",
+  "palette": {
+    "body": "#E2B979",
+    "accent": "#A7D8C7",
+    "face": "#4B3A2E",
+    "shadow": "#B98D55",
+    "background": "#F6EDE2"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a large circle for the compass case. Add a smaller circle inside and a small loop at the top.",
+      "hint": "Use simple circles first, even if they are a little wobbly.",
+      "image": "./assets/lesson-images/enchanted-compass-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, draw two eyes on the inner circle. Add one wink, one raised eyebrow, and a tiny confident smile.",
+      "hint": "A wink can be one curved line instead of a full eye.",
+      "image": "./assets/lesson-images/enchanted-compass-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add a simple arrow needle, tiny direction marks, map crumbs, cheek dots, and small sparkle points around the rim.",
+      "hint": "The needle can be two skinny triangles touching point to point.",
+      "image": "./assets/lesson-images/enchanted-compass-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the outer case, inner circle, loop, face, needle, direction marks, crumbs, and sparkles.",
+      "hint": "Make the needle clear and centered so Pip reads as a compass.",
+      "image": "./assets/lesson-images/enchanted-compass-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the case, inner face, arrow, cheeks, and sparkles. Add a soft shadow below the compass.",
+      "hint": "Use a darker rim color to make the round case feel sturdy.",
+      "image": "./assets/lesson-images/enchanted-compass-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}

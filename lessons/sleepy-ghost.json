@@ -1,0 +1,62 @@
+{
+  "id": "sleepy-ghost",
+  "title": "Sleepy Ghost",
+  "character_name": "Mimi Moonmurmur",
+  "category": "Cute Creatures",
+  "estimated_minutes": 15,
+  "bio": "Mimi Moonmurmur is a sleepy ghost who haunts blanket piles instead of castles. She feels drowsy, hums to dust motes, and carries one tiny star like a night-light.",
+  "palette": {
+    "body": "#F4F0FF",
+    "accent": "#FFD6A8",
+    "face": "#46384F",
+    "shadow": "#CFC5E8",
+    "background": "#EEF3F8"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw an upside-down U shape for the ghost body. Add a wavy bottom edge with three soft bumps.",
+      "hint": "Think of the ghost as a blanket blob floating gently.",
+      "image": "./assets/lesson-images/sleepy-ghost-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, draw two closed curved eyes. Add droopy eyebrows and a tiny sleepy mouth below them.",
+      "hint": "Closed eyes are just soft little smiles turned sideways.",
+      "image": "./assets/lesson-images/sleepy-ghost-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add tiny arms, cheek dots, a small star night-light, and a few floating sleepy sparkles.",
+      "hint": "Make the arms simple curved flippers, not detailed hands.",
+      "image": "./assets/lesson-images/sleepy-ghost-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the ghost body, wavy bottom, face, arms, star, and sparkles with smooth rounded lines.",
+      "hint": "Keep the bottom bumps uneven so Mimi feels soft and handmade.",
+      "image": "./assets/lesson-images/sleepy-ghost-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the ghost, star, cheeks, and sparkles. Add a soft floating shadow below the ghost.",
+      "hint": "Place the shadow a little lower to show Mimi is drifting.",
+      "image": "./assets/lesson-images/sleepy-ghost-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "dream-bottle",
+  "title": "Dream Bottle",
+  "character_name": "Luma Drowsydrop",
+  "category": "Magic Items",
+  "estimated_minutes": 20,
+  "bio": "Luma Drowsydrop is a dream bottle who keeps soft clouds sealed under a cork. They feel tender, glow during naps, and releases tiny sleepy stars when hugged.",
+  "palette": {
+    "body": "#B7DDF2",
+    "accent": "#F4C7D8",
+    "face": "#344658",
+    "shadow": "#83B3CF",
+    "background": "#F7F0E8"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a round bottle body as a large oval. Add a short neck rectangle and a small cork on top.",
+      "hint": "Make the bottle body round and calm, like a little snow globe.",
+      "image": "./assets/lesson-images/dream-bottle-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, draw two sleepy curved eyes on the front. Add soft droopy eyebrows and a tiny peaceful smile.",
+      "hint": "Closed eyes make Luma feel like a bottled bedtime story.",
+      "image": "./assets/lesson-images/dream-bottle-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add a cloud shape inside the bottle, small stars, a label tag, cheek dots, and a little cork string.",
+      "hint": "The cloud can be three small bumps connected together.",
+      "image": "./assets/lesson-images/dream-bottle-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the bottle, neck, cork, face, cloud, stars, label tag, cheeks, and string.",
+      "hint": "Use smooth bottle lines so the inside dream details look protected.",
+      "image": "./assets/lesson-images/dream-bottle-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the bottle, cloud, stars, cork, and label. Add soft glass highlights and a small shadow below.",
+      "hint": "Keep the bottle color light so the dream cloud can still be seen.",
+      "image": "./assets/lesson-images/dream-bottle-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}

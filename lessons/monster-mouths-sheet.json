@@ -1,0 +1,57 @@
+{
+  "id": "monster-mouths-sheet",
+  "title": "Monster Mouths Sheet",
+  "character_name": "Chompkin Doodlejaw",
+  "category": "Expressions & Faces",
+  "estimated_minutes": 20,
+  "bio": "Chompkin Doodlejaw is a mouth practice goblin who keeps tiny teeth in a teacup. He feels dramatic, gargles moonlight, and gives every frown a snack-sized story.",
+  "palette": {
+    "body": "#D8E8B8",
+    "accent": "#F4A8A8",
+    "face": "#3D4532",
+    "shadow": "#A9BF82",
+    "background": "#F6EDE2"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a page rectangle. Add six small rounded rectangles or ovals where the monster mouths will sit.",
+      "hint": "Think of each mouth as a tiny window for teeth, tongues, or giggles.",
+      "image": "./assets/lesson-images/monster-mouths-sheet-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, draw different mouth shapes: grin, tiny frown, zigzag teeth, open oval, side smirk, and wobbly nervous smile.",
+      "hint": "Change the mouth curve first, then add teeth after.",
+      "image": "./assets/lesson-images/monster-mouths-sheet-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add simple teeth triangles, tiny tongues, drool dots, labels, cheek marks, and a few crumb-sized sparkles.",
+      "hint": "Keep teeth rounded at the tips so the mouths stay cute-creepy.",
+      "image": "./assets/lesson-images/monster-mouths-sheet-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace each mouth, tooth, tongue, label, cheek mark, and sparkle with clear careful lines.",
+      "hint": "Trace the outside mouth shape first, then the small details inside.",
+      "image": "./assets/lesson-images/monster-mouths-sheet-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, color tongues, cheeks, teeth shadows, and tiny accents. Add a soft page shadow below.",
+      "hint": "A little dark color inside open mouths makes the expressions easier to read.",
+      "image": "./assets/lesson-images/monster-mouths-sheet-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}

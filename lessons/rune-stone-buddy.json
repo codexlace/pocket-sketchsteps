@@ -1,0 +1,57 @@
+{
+  "id": "rune-stone-buddy",
+  "title": "Rune Stone Buddy",
+  "character_name": "Moss Runecrumb",
+  "category": "Magic Items",
+  "estimated_minutes": 17,
+  "bio": "Moss Runecrumb is a rune stone buddy who remembers every cozy spell ever whispered near soup. They feel thoughtful, grow moss freckles, and naps best in pockets.",
+  "palette": {
+    "body": "#AEB8A2",
+    "accent": "#D7C58A",
+    "face": "#394238",
+    "shadow": "#7F8D78",
+    "background": "#F3EBDD"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a rounded pebble shape that is wider at the bottom. Add a small flat curve underneath to show where it sits.",
+      "hint": "Make the stone uneven like a soft potato, not a perfect oval.",
+      "image": "./assets/lesson-images/rune-stone-buddy-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, draw two calm dot eyes in the upper middle. Add heavy little eyebrows and a tiny patient mouth.",
+      "hint": "Low eyebrows make Moss look ancient but still friendly.",
+      "image": "./assets/lesson-images/rune-stone-buddy-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add one simple rune mark on the belly, moss blobs on one corner, cheek dots, and tiny pebble crumbs nearby.",
+      "hint": "The rune can be a short line with two smaller branches.",
+      "image": "./assets/lesson-images/rune-stone-buddy-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the stone, face, rune, moss blobs, cheek dots, and pebble crumbs with smooth readable lines.",
+      "hint": "Keep the rune bold and simple so it stays clear after color.",
+      "image": "./assets/lesson-images/rune-stone-buddy-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the stone, moss, rune, and cheeks. Add a soft shadow under the pebble and a few darker spots.",
+      "hint": "Place darker spots near the bottom to make the stone feel grounded.",
+      "image": "./assets/lesson-images/rune-stone-buddy-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "sassy-scissors",
+  "title": "Sassy Scissors",
+  "character_name": "Snipella Spark",
+  "category": "Living Objects",
+  "estimated_minutes": 19,
+  "bio": "Snipella Spark is a sassy pair of scissors who only cuts crooked paper on purpose. She feels dramatic, wears sparkle freckles, and once gave a ribbon a very judgmental trim.",
+  "palette": {
+    "body": "#B7C9D8",
+    "accent": "#F4A6B8",
+    "face": "#394047",
+    "shadow": "#8499AA",
+    "background": "#FFF1D9"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw two long thin blade shapes crossing near the middle. Add two oval handle loops at the bottom.",
+      "hint": "Use simple capsules for the handles and long triangles for the blades.",
+      "image": "./assets/lesson-images/sassy-scissors-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place the face near the hinge area. Add narrow eyes, sharp raised eyebrows, and a tiny side smile.",
+      "hint": "A side smile and lifted eyebrow make Snipella look extra sassy.",
+      "image": "./assets/lesson-images/sassy-scissors-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add a round hinge dot, sparkle freckles, little cut paper triangles, and a wavy ribbon nearby.",
+      "hint": "The paper scraps can be tiny triangles and rectangles floating around.",
+      "image": "./assets/lesson-images/sassy-scissors-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the blades, handles, hinge, face, ribbon, and paper scraps. Keep the crossed shape easy to read.",
+      "hint": "Make the blade lines clean and simple so they do not look tangled.",
+      "image": "./assets/lesson-images/sassy-scissors-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the blades, handles, hinge, and accents. Add soft shadows where the blades cross.",
+      "hint": "A tiny darker spot under the hinge makes the scissors feel connected.",
+      "image": "./assets/lesson-images/sassy-scissors-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

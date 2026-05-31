@@ -1,0 +1,62 @@
+{
+  "id": "pocket-monster",
+  "title": "Pocket Monster",
+  "character_name": "Norb Buttonsnack",
+  "category": "Cute Creatures",
+  "estimated_minutes": 19,
+  "bio": "Norb Buttonsnack is a pocket monster who lives in coat pockets and guards lost lint. He feels suspicious, chews on buttons, and keeps a tiny map to the laundry basket.",
+  "palette": {
+    "body": "#C9D9A7",
+    "accent": "#F1A7A0",
+    "face": "#3F4632",
+    "shadow": "#98AA78",
+    "background": "#F7EDE2"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a small rounded bean body. Add two stubby legs and two short arm blobs.",
+      "hint": "A bean shape makes Norb easy to pose and very pocket-sized.",
+      "image": "./assets/lesson-images/pocket-monster-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, draw two uneven oval eyes. Add one high eyebrow, one low eyebrow, and a tiny toothy mouth.",
+      "hint": "Uneven eyes make the monster look curious and a little weird.",
+      "image": "./assets/lesson-images/pocket-monster-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add tiny horns, belly spots, a button snack, lint dots, and a small folded map shape.",
+      "hint": "The map can be a little rectangle with one wavy line.",
+      "image": "./assets/lesson-images/pocket-monster-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the body, arms, legs, face, horns, spots, button, lint, and map with clear simple lines.",
+      "hint": "Keep the teeth tiny so the monster stays friendly.",
+      "image": "./assets/lesson-images/pocket-monster-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the body, horns, spots, button, and map. Add soft shadow under the little feet.",
+      "hint": "A few darker belly spots give Norb personality without making the drawing busy.",
+      "image": "./assets/lesson-images/pocket-monster-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

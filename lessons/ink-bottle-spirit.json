@@ -1,0 +1,57 @@
+{
+  "id": "ink-bottle-spirit",
+  "title": "Ink Bottle Spirit",
+  "character_name": "Niblet Blot",
+  "category": "Magic Items",
+  "estimated_minutes": 21,
+  "bio": "Niblet Blot is an ink bottle spirit who sneaks out to doodle mustaches on moonbeams. They feel mischievous, drip tiny constellations, and burble when a pen gets too serious.",
+  "palette": {
+    "body": "#8EA4D8",
+    "accent": "#D7C1F2",
+    "face": "#2F3650",
+    "shadow": "#667DB3",
+    "background": "#F1EDE5"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a squat bottle shape with a round body and short neck. Add a small cap rectangle on top.",
+      "hint": "Keep the bottle wide and sturdy so it feels like it holds lots of ink.",
+      "image": "./assets/lesson-images/ink-bottle-spirit-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two eyes on the front of the bottle. Add sneaky eyebrows and a tiny smirk.",
+      "hint": "Tilt one eyebrow higher to make Niblet look mischievous.",
+      "image": "./assets/lesson-images/ink-bottle-spirit-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add ink drips, a label, a small spirit wisp rising from the neck, cheek dots, and star-shaped ink blots.",
+      "hint": "The wisp can be one soft S-shape floating upward.",
+      "image": "./assets/lesson-images/ink-bottle-spirit-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the bottle, cap, face, label, ink drips, wisp, cheeks, and star blots.",
+      "hint": "Make the drips rounded at the ends so they feel cute, not messy.",
+      "image": "./assets/lesson-images/ink-bottle-spirit-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the bottle, ink, label, wisp, cheeks, and blots. Add a soft shadow under the bottle and a small glass highlight.",
+      "hint": "Use the darkest color inside the drips to make the ink feel deep.",
+      "image": "./assets/lesson-images/ink-bottle-spirit-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "marshmallow-friend",
+  "title": "Bubblebun the Marshmallow Creature",
+  "character_name": "Bubblebun",
+  "category": "cute-creature",
+  "estimated_minutes": 9,
+  "difficulty": "Beginner",
+  "bio": "Bubblebun is a marshmallow creature who floats through sketchbooks looking for compliments.",
+  "palette": {
+    "body": "#F8E8E8",
+    "shadow": "#E9C7D7",
+    "blush": "#F4A6C8",
+    "accent": "#F7D774",
+    "background": "#D787C7",
+    "face": "#3f3442"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Squish the shape",
+      "instruction": "Draw a rounded marshmallow blob with a slightly flat bottom.",
+      "hint": "Avoid perfect symmetry; cute creatures wobble.",
+      "layer_tip": "Guides layer",
+      "image": "./assets/lesson-images/marshmallow-friend-step1.svg",
+      "overlays": [
+        "centerline",
+        "shape",
+        "palette"
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Add the face",
+      "instruction": "Add two glossy eyes and a little smile.",
+      "hint": "Place the eyes slightly lower than center.",
+      "layer_tip": "Sketch layer",
+      "image": "./assets/lesson-images/marshmallow-friend-step2.svg",
+      "overlays": [
+        "palette",
+        "notes"
+      ]
+    },
+    {
+      "step": 3,
+      "title": "Add cheek magic",
+      "instruction": "Draw round cheeks and tiny curved arms.",
+      "hint": "Cheeks can overlap the face area a little.",
+      "layer_tip": "Details layer",
+      "image": "./assets/lesson-images/marshmallow-friend-step3.svg",
+      "overlays": [
+        "palette",
+        "notes"
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Add bubbles",
+      "instruction": "Place small floating bubbles around the character.",
+      "hint": "Use odd numbers of bubbles for a natural look.",
+      "layer_tip": "Effects layer",
+      "image": "./assets/lesson-images/marshmallow-friend-step4.svg",
+      "overlays": [
+        "palette",
+        "notes"
+      ]
+    },
+    {
+      "step": 5,
+      "title": "Clean lines & color",
+      "instruction": "Ink the blob, fill it, and add soft shaded edges.",
+      "hint": "Keep shadows subtle and pillowy.",
+      "layer_tip": "Lineart + Color layers",
+      "image": "./assets/lesson-images/marshmallow-friend-step5.png",
+      "overlays": [
+        "palette",
+        "notes"
+      ]
+    }
+  ],
+  "thumbnail": "./assets/lessons/marshmallow-friend/step1.png"
+}

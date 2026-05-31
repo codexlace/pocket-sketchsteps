@@ -1,0 +1,57 @@
+{
+  "id": "cute-creepy-expressions",
+  "title": "Cute-Creepy Expressions",
+  "character_name": "Mina Spooksmile",
+  "category": "Expressions & Faces",
+  "estimated_minutes": 21,
+  "bio": "Mina Spooksmile is a little expression ghost who practices being spooky without hurting feelings. She feels proud, keeps bat-shaped blush stickers, and giggles when her fangs look polite.",
+  "palette": {
+    "body": "#EDE8FF",
+    "accent": "#F6B7C8",
+    "face": "#46384F",
+    "shadow": "#C7BFE2",
+    "background": "#F7F0E4"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw four small ghost blob heads in a row. Use rounded tops and soft wavy bottoms.",
+      "hint": "Make each blob the same size so the expression changes are easy to compare.",
+      "image": "./assets/lesson-images/cute-creepy-expressions-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, give each ghost a different face: shy spooky, fang smile, worried stare, and mischievous grin.",
+      "hint": "Use eyebrows, eye size, and mouth curve to make each face feel different.",
+      "image": "./assets/lesson-images/cute-creepy-expressions-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add tiny fangs, cheek stickers, bat sparkles, little sweat drops, and one floating candy crumb.",
+      "hint": "One creepy detail plus one cute detail makes the balance work.",
+      "image": "./assets/lesson-images/cute-creepy-expressions-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the ghost shapes, faces, fangs, cheeks, sparkles, sweat drops, and candy crumb.",
+      "hint": "Keep the fangs small and rounded so the ghosts stay friendly.",
+      "image": "./assets/lesson-images/cute-creepy-expressions-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the ghosts, cheeks, stickers, sparkles, and crumb. Add soft floating shadows under each ghost.",
+      "hint": "Use matching shadows under every ghost to tie the expression sheet together.",
+      "image": "./assets/lesson-images/cute-creepy-expressions-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}

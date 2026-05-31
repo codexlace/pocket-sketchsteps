@@ -1,0 +1,62 @@
+{
+  "id": "cloud-buddy",
+  "title": "Cloud Buddy",
+  "character_name": "Nimbus Noodle",
+  "category": "Cute Creatures",
+  "estimated_minutes": 15,
+  "bio": "Nimbus Noodle is a cloud buddy who follows window cats and forgets where the sky is. They feel gentle, sneeze raindrop sprinkles, and wear one tiny thunderbolt pin.",
+  "palette": {
+    "body": "#EAF4F8",
+    "accent": "#F7D27A",
+    "face": "#3F4A50",
+    "shadow": "#B9D3DD",
+    "background": "#F5EEF7"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw three overlapping circles for the top of the cloud. Add a soft curved line along the bottom.",
+      "hint": "Use circles like building blocks, then connect them into one fluffy shape.",
+      "image": "./assets/lesson-images/cloud-buddy-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two calm eyes on the front middle bump. Add soft eyebrows and a tiny relaxed smile.",
+      "hint": "Keep the face simple so the cloud shape stays fluffy.",
+      "image": "./assets/lesson-images/cloud-buddy-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add cheek dots, three raindrop sprinkles, a tiny thunderbolt pin, and a few floating puff marks.",
+      "hint": "Raindrops are just small teardrop shapes under the cloud.",
+      "image": "./assets/lesson-images/cloud-buddy-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the cloud outline, face, raindrops, thunderbolt pin, and puff marks with smooth rounded lines.",
+      "hint": "Erase extra circle guide lines so Nimbus becomes one soft cloud.",
+      "image": "./assets/lesson-images/cloud-buddy-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the cloud, raindrops, pin, and cheeks. Add a soft floating shadow and pale edge highlights.",
+      "hint": "Use shadow color along the lower bumps to make the cloud feel puffy.",
+      "image": "./assets/lesson-images/cloud-buddy-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

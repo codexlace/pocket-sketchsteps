@@ -1,0 +1,62 @@
+{
+  "id": "chatty-notebook",
+  "title": "Chatty Notebook",
+  "character_name": "Pippa Scribbletalk",
+  "category": "Living Objects",
+  "estimated_minutes": 18,
+  "bio": "Pippa Scribbletalk is a notebook who cannot keep a secret because her pages whisper. She feels bubbly, wears sticky-note bows, and once told a pencil about a haunted grocery list.",
+  "palette": {
+    "body": "#D7E8F7",
+    "accent": "#F7C5D8",
+    "face": "#364754",
+    "shadow": "#9EB9CF",
+    "background": "#F6F1DD"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a tall rounded rectangle for the notebook. Add a slim strip on the left for the spiral binding.",
+      "hint": "Keep the notebook slightly tilted to make it feel lively.",
+      "image": "./assets/lesson-images/chatty-notebook-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two bright oval eyes near the top half. Add raised eyebrows and an open little talking mouth.",
+      "hint": "A small oval mouth makes Pippa look mid-sentence.",
+      "image": "./assets/lesson-images/chatty-notebook-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add spiral loops, page lines, speech bubbles, a sticky note, and tiny doodle stars in the corners.",
+      "hint": "Use only a few page lines so the face stays clear.",
+      "image": "./assets/lesson-images/chatty-notebook-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the notebook outline, spirals, face, sticky note, and speech bubbles. Smooth out any wobbly guide edges.",
+      "hint": "Draw the spirals as simple small loops, not perfect coils.",
+      "image": "./assets/lesson-images/chatty-notebook-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the cover, sticky note, and face. Add soft shadows along the binding and under the notebook.",
+      "hint": "A darker strip beside the spirals helps the notebook look gently layered.",
+      "image": "./assets/lesson-images/chatty-notebook-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

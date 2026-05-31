@@ -1,0 +1,62 @@
+{
+  "id": "enchanted-eraser",
+  "title": "Enchanted Eraser",
+  "character_name": "Bumble Smudge",
+  "category": "Living Objects",
+  "estimated_minutes": 14,
+  "bio": "Bumble Smudge is an enchanted eraser who removes mistakes and replaces them with tiny compliments. They feel bashful, leave soft pink crumbs, and blush whenever a sketch improves.",
+  "palette": {
+    "body": "#F3B7C6",
+    "accent": "#F8E6A8",
+    "face": "#4C3A42",
+    "shadow": "#D58EA3",
+    "background": "#EDF5E8"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a small rounded rectangle for the eraser body. Add a second slightly smaller rectangle on top for a wrapped label.",
+      "hint": "Use soft corners so Bumble looks squishy, not blocky.",
+      "image": "./assets/lesson-images/enchanted-eraser-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two tiny oval eyes on the front. Add shy curved eyebrows and a small wobbly smile.",
+      "hint": "Put the face slightly low to make the eraser look extra cute.",
+      "image": "./assets/lesson-images/enchanted-eraser-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add eraser crumbs, a little label star, cheek circles, and a few small erased ghost lines behind it.",
+      "hint": "Ghost lines should be pale and short, like old marks fading away.",
+      "image": "./assets/lesson-images/enchanted-eraser-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the eraser body, label, face, crumbs, and star. Keep the old erased marks lighter and simpler.",
+      "hint": "Do not outline every crumb heavily; a few dots are enough.",
+      "image": "./assets/lesson-images/enchanted-eraser-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the eraser and label. Add blush, soft crumb dots, and a small shadow under Bumble.",
+      "hint": "Use the shadow color under one side to make the eraser sit on the page.",
+      "image": "./assets/lesson-images/enchanted-eraser-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

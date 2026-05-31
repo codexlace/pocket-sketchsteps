@@ -1,0 +1,57 @@
+{
+  "id": "crystal-companion",
+  "title": "Crystal Companion",
+  "character_name": "Glint Pebblewish",
+  "category": "Magic Items",
+  "estimated_minutes": 18,
+  "bio": "Glint Pebblewish is a crystal companion who glows brighter when someone feels brave. They feel hopeful, keep dust stars in their facets, and hum softly inside forgotten drawers.",
+  "palette": {
+    "body": "#BDEAF2",
+    "accent": "#D7B8F2",
+    "face": "#344A52",
+    "shadow": "#86B9C4",
+    "background": "#F4EEF8"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a tall diamond shape for the main crystal. Add two smaller crystal shapes beside it like little shoulder stones.",
+      "hint": "Use straight simple lines, but keep the points slightly soft.",
+      "image": "./assets/lesson-images/crystal-companion-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two small oval eyes in the center of the main crystal. Add gentle raised eyebrows and a tiny smile.",
+      "hint": "Keep the face small so the crystal still feels tall and shiny.",
+      "image": "./assets/lesson-images/crystal-companion-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add simple facet lines, tiny star dust, cheek dots, and a few glow marks around the points.",
+      "hint": "Facet lines can be short straight lines from the corners toward the middle.",
+      "image": "./assets/lesson-images/crystal-companion-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the crystal outlines, face, facets, stars, cheeks, and glow marks with clean steady lines.",
+      "hint": "Do not trace every guide line; choose the clearest crystal edges.",
+      "image": "./assets/lesson-images/crystal-companion-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the crystals, cheeks, and stars. Add soft shadows near the bottom and pale highlights along one side.",
+      "hint": "A few light streaks make Glint look magical without adding hard details.",
+      "image": "./assets/lesson-images/crystal-companion-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}

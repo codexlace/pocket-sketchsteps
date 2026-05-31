@@ -1,0 +1,62 @@
+{
+  "id": "cozy-mushroom-creature",
+  "title": "Cozy Mushroom Creature",
+  "character_name": "Toadstool Tilly",
+  "category": "Cute Creatures",
+  "estimated_minutes": 20,
+  "bio": "Toadstool Tilly is a cozy mushroom creature who naps under fallen leaves and dreams in polka dots. She feels mellow, stitches tiny scarves, and keeps a snail pen pal.",
+  "palette": {
+    "body": "#F5D8B8",
+    "accent": "#D98C8C",
+    "face": "#4B3A35",
+    "shadow": "#C9A17D",
+    "background": "#EEF3E6"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a wide rounded triangle for the mushroom cap. Add a short rounded rectangle stem underneath.",
+      "hint": "Make the cap wider than the stem so Tilly looks cozy and sheltered.",
+      "image": "./assets/lesson-images/cozy-mushroom-creature-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two oval eyes on the stem. Add relaxed eyebrows and a small peaceful smile.",
+      "hint": "Keep the face centered on the stem so it is easy to read.",
+      "image": "./assets/lesson-images/cozy-mushroom-creature-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add cap spots, a tiny scarf, cheek dots, little feet, and a small leaf blanket beside her.",
+      "hint": "Cap spots can be simple circles in different sizes.",
+      "image": "./assets/lesson-images/cozy-mushroom-creature-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the cap, stem, face, spots, scarf, feet, cheeks, and leaf blanket with soft clean lines.",
+      "hint": "Round the bottom of the stem so it feels like a tiny creature body.",
+      "image": "./assets/lesson-images/cozy-mushroom-creature-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the cap, stem, spots, scarf, cheeks, and leaf. Add a soft shadow under Tilly.",
+      "hint": "Put a little shadow under the cap to make it sit over the stem.",
+      "image": "./assets/lesson-images/cozy-mushroom-creature-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

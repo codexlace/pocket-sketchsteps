@@ -1,0 +1,57 @@
+{
+  "id": "silly-eyes-sheet",
+  "title": "Silly Eyes Sheet",
+  "character_name": "Blinko Peepers",
+  "category": "Expressions & Faces",
+  "estimated_minutes": 18,
+  "bio": "Blinko Peepers is a tiny practice sheet spirit who collects funny eye shapes like buttons. They feel giggly, blink out of order, and hide sparkle crumbs beside their favorite expressions.",
+  "palette": {
+    "body": "#F4D7E8",
+    "accent": "#B9D8F2",
+    "face": "#3F3442",
+    "shadow": "#C8A5BA",
+    "background": "#F7F1E3"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a simple page rectangle. Add six light circles in two rows to mark where each eye pair will go.",
+      "hint": "Keep the circles loose and evenly spaced like a friendly sticker sheet.",
+      "image": "./assets/lesson-images/silly-eyes-sheet-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, turn each circle pair into different eyes: dots, ovals, sleepy curves, stars, spirals, and tiny uneven blobs.",
+      "hint": "Change the eyebrow angle above each pair to create a new mood fast.",
+      "image": "./assets/lesson-images/silly-eyes-sheet-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add little labels, cheek dots, sparkles, tiny lashes, and one nervous sticky note in the corner.",
+      "hint": "Use only one or two details per eye pair so the sheet stays readable.",
+      "image": "./assets/lesson-images/silly-eyes-sheet-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the best eye shapes, eyebrows, labels, sparkles, and sticky note with clean simple lines.",
+      "hint": "Skip extra guide circles so each eye pair looks clear and intentional.",
+      "image": "./assets/lesson-images/silly-eyes-sheet-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, color the sticky note, cheeks, stars, and small accents. Add a soft shadow under the sheet.",
+      "hint": "Use accent colors lightly so the eyes remain the main practice focus.",
+      "image": "./assets/lesson-images/silly-eyes-sheet-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}

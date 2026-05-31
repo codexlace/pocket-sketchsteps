@@ -1,0 +1,62 @@
+{
+  "id": "sleepy-lamp",
+  "title": "Sleepy Lamp",
+  "character_name": "Nora Glowblink",
+  "category": "Living Objects",
+  "estimated_minutes": 17,
+  "bio": "Nora Glowblink is a sleepy lamp who keeps nodding off during midnight doodles. She feels dreamy, collects moth compliments, and flickers little stars when she yawns.",
+  "palette": {
+    "body": "#F5DDA8",
+    "accent": "#C9B7E8",
+    "face": "#4A3F4F",
+    "shadow": "#D3AF7C",
+    "background": "#EEEAF8"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a trapezoid-like lampshade using simple slanted sides. Add a thin rectangle stem and a flat oval base.",
+      "hint": "Start with big simple shapes before adding any glow.",
+      "image": "./assets/lesson-images/sleepy-lamp-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, draw two sleepy curved eyes on the lampshade. Add soft droopy eyebrows and a tiny yawn mouth.",
+      "hint": "Curved closed eyes instantly make the lamp look tired.",
+      "image": "./assets/lesson-images/sleepy-lamp-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add a pull chain with a tiny star charm, small glow lines, and one little moth-shaped oval nearby.",
+      "hint": "The moth can be just a small oval body with two teardrop wings.",
+      "image": "./assets/lesson-images/sleepy-lamp-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the shade, stem, base, sleepy face, pull chain, and moth. Keep the glow lines light and simple.",
+      "hint": "Clean outlines help the lamp stay readable even with cute details.",
+      "image": "./assets/lesson-images/sleepy-lamp-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the lampshade, stem, and base. Add pale glow around the shade and a soft oval shadow below.",
+      "hint": "Use a lighter color near the middle of the shade to make Nora feel gently lit.",
+      "image": "./assets/lesson-images/sleepy-lamp-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "floating-candle-friend",
+  "title": "Floating Candle Friend",
+  "character_name": "Wicksy Wisp",
+  "category": "Living Objects",
+  "estimated_minutes": 17,
+  "bio": "Wicksy Wisp is a floating candle friend who drifts through blanket forts like a tiny moon. He feels brave but squeaky, drops wax stars, and whispers pep talks to shadows.",
+  "palette": {
+    "body": "#FFF1B8",
+    "accent": "#F6A7A1",
+    "face": "#4C3E32",
+    "shadow": "#D9BD7A",
+    "background": "#EDE8F8"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a short rounded rectangle for the candle. Add a teardrop shape above it for the flame.",
+      "hint": "Make the candle body simple and chunky so it feels cute.",
+      "image": "./assets/lesson-images/floating-candle-friend-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, draw two small eyes on the candle body. Add brave arched eyebrows and a tiny open smile.",
+      "hint": "Place the face in the upper half, below the melted wax edge.",
+      "image": "./assets/lesson-images/floating-candle-friend-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add drippy wax blobs, a small wick, glow lines, and a few tiny stars floating around the candle.",
+      "hint": "Wax drips are just little rounded drops hanging from the top edge.",
+      "image": "./assets/lesson-images/floating-candle-friend-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the candle, flame, wax drips, face, wick, stars, and glow lines with clean soft strokes.",
+      "hint": "Keep the flame outline smooth like a little leaf.",
+      "image": "./assets/lesson-images/floating-candle-friend-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the candle, flame, wax, and face. Add a soft floating shadow below and warm dots near the glow.",
+      "hint": "A shadow lower than the candle helps show that Wicksy is floating.",
+      "image": "./assets/lesson-images/floating-candle-friend-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

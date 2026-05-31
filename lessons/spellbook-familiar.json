@@ -1,0 +1,62 @@
+{
+  "id": "spellbook-familiar",
+  "title": "Spellbook Familiar",
+  "character_name": "Mossmarg the Mild",
+  "category": "Living Objects",
+  "estimated_minutes": 21,
+  "bio": "Mossmarg the Mild is a spellbook familiar who follows witches by scooting across the floor. They feel patient, grow moss on one corner, and purr whenever a spell is spelled correctly.",
+  "palette": {
+    "body": "#8FBFA3",
+    "accent": "#E7C27D",
+    "face": "#2F4237",
+    "shadow": "#658A74",
+    "background": "#F2EDE1"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a thick rounded rectangle for the closed spellbook. Add a curved spine on the left and a thin page block on the right.",
+      "hint": "Make the book chunky so it feels like a little creature.",
+      "image": "./assets/lesson-images/spellbook-familiar-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two calm oval eyes on the cover. Add soft heavy eyebrows and a small catlike mouth.",
+      "hint": "Low gentle eyebrows make Mossmarg look old, kind, and mysterious.",
+      "image": "./assets/lesson-images/spellbook-familiar-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add a moon symbol, corner moss blobs, page lines, tiny paws peeking out, and a few quiet sparkles.",
+      "hint": "The paws can be small ovals under the book, barely showing.",
+      "image": "./assets/lesson-images/spellbook-familiar-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the book cover, spine, pages, face, moon, moss, paws, and sparkles with smooth readable lines.",
+      "hint": "Keep the moss as soft blobs so it looks cozy instead of detailed.",
+      "image": "./assets/lesson-images/spellbook-familiar-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the cover, pages, moss, moon, and paws. Add a soft shadow beneath the scooting book.",
+      "hint": "Use small accent dots around the moon symbol for a gentle spellbook glow.",
+      "image": "./assets/lesson-images/spellbook-familiar-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "magic-feather-charm",
+  "title": "Magic Feather Charm",
+  "character_name": "Fenna Fluffspell",
+  "category": "Magic Items",
+  "estimated_minutes": 17,
+  "bio": "Fenna Fluffspell is a magic feather charm who floats after kind words and lands on grumpy hats. She feels gentle, trails sleepy sparkles, and tickles nightmares until they giggle.",
+  "palette": {
+    "body": "#F4D6E6",
+    "accent": "#B9D7F2",
+    "face": "#4B3B4A",
+    "shadow": "#C69CB6",
+    "background": "#F6F1DE"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a long curved leaf shape for the feather. Add a simple center line from top to bottom.",
+      "hint": "Make the feather lean slightly so it feels like it is floating.",
+      "image": "./assets/lesson-images/magic-feather-charm-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two tiny eyes near the lower middle. Add soft curved eyebrows and a small shy smile.",
+      "hint": "Keep the face tucked near the center line so it feels part of the feather.",
+      "image": "./assets/lesson-images/magic-feather-charm-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add simple feather barbs, a charm bead near the stem, cheek dots, and tiny sparkle trails around it.",
+      "hint": "Feather barbs are short curved lines that grow from the center line.",
+      "image": "./assets/lesson-images/magic-feather-charm-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the feather outline, center line, face, barbs, charm bead, cheeks, and sparkle trails.",
+      "hint": "Let some barb lines be shorter to keep the feather soft and simple.",
+      "image": "./assets/lesson-images/magic-feather-charm-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the feather, bead, cheeks, and sparkles. Add a pale highlight along one side and a soft floating shadow.",
+      "hint": "A shadow below the feather makes Fenna look light but present.",
+      "image": "./assets/lesson-images/magic-feather-charm-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}

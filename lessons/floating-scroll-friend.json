@@ -1,0 +1,57 @@
+{
+  "id": "floating-scroll-friend",
+  "title": "Floating Scroll Friend",
+  "character_name": "Parchment Peep",
+  "category": "Magic Items",
+  "estimated_minutes": 19,
+  "bio": "Parchment Peep is a floating scroll friend who unrolls when someone needs a gentle reminder. They feel earnest, keeps ribbon knots tidy, and whispers tiny spells in curly handwriting.",
+  "palette": {
+    "body": "#F1D7A8",
+    "accent": "#C7A4D8",
+    "face": "#4A392E",
+    "shadow": "#C7A16E",
+    "background": "#EEF4F0"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a wide rounded rectangle for the scroll paper. Add a curled roll shape on each side.",
+      "hint": "Use simple tubes for the curled ends, like two tiny cinnamon rolls.",
+      "image": "./assets/lesson-images/floating-scroll-friend-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two small eyes near the center of the paper. Add worried eyebrows and a tiny helpful smile.",
+      "hint": "Keep the face centered so the scroll feels friendly and readable.",
+      "image": "./assets/lesson-images/floating-scroll-friend-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add a few curly writing lines, a ribbon knot, cheek dots, little stars, and soft floating motion marks.",
+      "hint": "Writing lines can be simple waves, not real words.",
+      "image": "./assets/lesson-images/floating-scroll-friend-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the scroll paper, curled ends, face, writing lines, ribbon knot, cheeks, stars, and motion marks.",
+      "hint": "Make the paper edges slightly wavy so the scroll feels old and cozy.",
+      "image": "./assets/lesson-images/floating-scroll-friend-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the paper, ribbon, cheeks, and stars. Add soft shadows under the curled ends and a floating shadow below.",
+      "hint": "A little shadow inside each curl helps the scroll ends look rolled.",
+      "image": "./assets/lesson-images/floating-scroll-friend-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "cozy-mug-friend",
+  "title": "Cozy Mug Friend",
+  "character_name": "Mallow Sipkins",
+  "category": "Living Objects",
+  "estimated_minutes": 16,
+  "bio": "Mallow Sipkins is a warm mug friend who hums when filled with cocoa. He feels proudly sleepy, wears marshmallow freckles, and always saves one curl of steam for good luck.",
+  "palette": {
+    "body": "#F2B8A2",
+    "accent": "#FFF0C9",
+    "face": "#513B35",
+    "shadow": "#D58E7F",
+    "background": "#F8E9F0"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a wide oval for the mug opening and a rounded rectangle under it for the cup body. Add a big C-shaped handle on one side.",
+      "hint": "Think of the mug as a soft bucket with a round ear.",
+      "image": "./assets/lesson-images/cozy-mug-friend-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two dot eyes on the front of the mug. Add gentle raised eyebrows and a small happy mouth.",
+      "hint": "Keep the face low enough to leave room for steam on top.",
+      "image": "./assets/lesson-images/cozy-mug-friend-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add three simple steam curls, tiny marshmallow circles, cheek dots, and a little heart patch on the mug.",
+      "hint": "Steam curls can be wobbly S-shapes, not perfect spirals.",
+      "image": "./assets/lesson-images/cozy-mug-friend-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the mug, handle, face, steam, and cozy details with calm smooth lines.",
+      "hint": "Make the handle opening clear so the shape reads as a mug.",
+      "image": "./assets/lesson-images/cozy-mug-friend-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the mug and marshmallows. Add a soft shadow under the cup and small warm highlights on the rim.",
+      "hint": "A light rim color makes the cocoa opening feel soft and full.",
+      "image": "./assets/lesson-images/cozy-mug-friend-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "star-sprite",
+  "title": "Star Sprite",
+  "character_name": "Twila Flickerfeet",
+  "category": "Cute Creatures",
+  "estimated_minutes": 18,
+  "bio": "Twila Flickerfeet is a star sprite who gets lost inside lampshades. She feels excited, wears tiny sock wings, and sprinkles brave little sparks on scary corners.",
+  "palette": {
+    "body": "#FFE08A",
+    "accent": "#B9C7F7",
+    "face": "#4B3D2E",
+    "shadow": "#D7B45E",
+    "background": "#EFEAF8"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a simple five-point star for the body using soft rounded points. Add two tiny oval feet underneath.",
+      "hint": "Round each point so the star feels like a little pillow.",
+      "image": "./assets/lesson-images/star-sprite-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two bright oval eyes in the center. Add eager raised eyebrows and a tiny open smile.",
+      "hint": "Leave space around the face so the star points stay clear.",
+      "image": "./assets/lesson-images/star-sprite-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add small sock wings, sparkle dots around the points, cheek circles, and little motion lines near the feet.",
+      "hint": "Sock wings can be tiny rounded triangles with one stripe.",
+      "image": "./assets/lesson-images/star-sprite-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the rounded star, feet, face, sock wings, sparkles, and motion lines.",
+      "hint": "Smooth out each point so Twila looks soft, not poky.",
+      "image": "./assets/lesson-images/star-sprite-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the star body, wings, cheeks, and sparkles. Add a soft glow edge and a tiny shadow below.",
+      "hint": "A light glow around the points helps the sprite feel magical.",
+      "image": "./assets/lesson-images/star-sprite-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

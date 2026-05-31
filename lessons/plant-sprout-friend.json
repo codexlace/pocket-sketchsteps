@@ -1,0 +1,62 @@
+{
+  "id": "plant-sprout-friend",
+  "title": "Plant Sprout Friend",
+  "character_name": "Peep Rootlet",
+  "category": "Cute Creatures",
+  "estimated_minutes": 17,
+  "bio": "Peep Rootlet is a plant sprout friend who pops out of teacups and asks the sun polite questions. They feel hopeful, wiggle two leaves, and keep soil crumbs as lucky charms.",
+  "palette": {
+    "body": "#A9D89A",
+    "accent": "#E8B07E",
+    "face": "#394D34",
+    "shadow": "#78A86D",
+    "background": "#F6EEDC"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a small oval head and a short stem body. Add two simple leaf shapes at the top.",
+      "hint": "Leaves can be tiny teardrops pointing upward.",
+      "image": "./assets/lesson-images/plant-sprout-friend-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, draw two small eyes on the oval head. Add hopeful raised eyebrows and a tiny round smile.",
+      "hint": "Place the eyes close together for a sweet baby-sprout look.",
+      "image": "./assets/lesson-images/plant-sprout-friend-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add a little soil mound, root feet, cheek dots, leaf veins, and a few crumb shapes around the base.",
+      "hint": "Root feet can be short curved lines, like tiny toes in the soil.",
+      "image": "./assets/lesson-images/plant-sprout-friend-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the sprout head, stem, leaves, face, soil mound, roots, crumbs, and leaf veins.",
+      "hint": "Keep leaf veins as one simple line in each leaf.",
+      "image": "./assets/lesson-images/plant-sprout-friend-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the sprout, leaves, soil, cheeks, and crumbs. Add a small shadow under the soil mound.",
+      "hint": "Use a darker green near the stem base for gentle depth.",
+      "image": "./assets/lesson-images/plant-sprout-friend-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

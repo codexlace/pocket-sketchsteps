@@ -1,0 +1,62 @@
+{
+  "id": "potion-bottle-buddy",
+  "title": "Potion Bottle Buddy",
+  "character_name": "Bramblebubble",
+  "category": "Living Objects",
+  "estimated_minutes": 20,
+  "bio": "Bramblebubble is a potion bottle buddy who brews courage but gets nervous around corks. They feel fizzy, keep glow bubbles in their belly, and giggle whenever a spell smells like toast.",
+  "palette": {
+    "body": "#A9E0D1",
+    "accent": "#D8B7F2",
+    "face": "#334A45",
+    "shadow": "#76B7A8",
+    "background": "#F4EAF2"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a round bottle body as a big oval. Add a short rectangle neck and a small cork shape on top.",
+      "hint": "Make the body wide and friendly, like a bubble with a tiny hat.",
+      "image": "./assets/lesson-images/potion-bottle-buddy-step1.svg",
+      "procreate_layer": "Guides",
+      "layer_tip": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two round eyes on the front of the bottle. Add worried little eyebrows and a small nervous smile.",
+      "hint": "Tilt the eyebrows upward in the middle for a sweet anxious look.",
+      "image": "./assets/lesson-images/potion-bottle-buddy-step2.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, draw a wavy potion line inside the bottle, bubble circles, a label, and a few sparkles around the cork.",
+      "hint": "Use different bubble sizes to make the potion feel gently fizzy.",
+      "image": "./assets/lesson-images/potion-bottle-buddy-step3.svg",
+      "procreate_layer": "Sketch",
+      "layer_tip": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the bottle, neck, cork, face, label, potion line, bubbles, and sparkles.",
+      "hint": "Keep the inside potion line smooth so it looks like liquid.",
+      "image": "./assets/lesson-images/potion-bottle-buddy-step4.svg",
+      "procreate_layer": "Lineart",
+      "layer_tip": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the glass, potion, cork, and label. Add soft highlights on the bottle and a shadow underneath.",
+      "hint": "A pale oval highlight on one side makes the bottle look shiny without extra work.",
+      "image": "./assets/lesson-images/potion-bottle-buddy-step5.png",
+      "procreate_layer": "Color + Details",
+      "layer_tip": "Color + Details"
+    }
+  ]
+}

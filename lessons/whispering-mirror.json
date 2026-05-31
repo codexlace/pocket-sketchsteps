@@ -1,0 +1,57 @@
+{
+  "id": "whispering-mirror",
+  "title": "Whispering Mirror",
+  "character_name": "Velvet Lookinglass",
+  "category": "Magic Items",
+  "estimated_minutes": 22,
+  "bio": "Velvet Lookinglass is a whispering mirror who gives compliments in spooky little echoes. She feels mysterious, collects moon smudges, and fogs up when she laughs.",
+  "palette": {
+    "body": "#C9D8E8",
+    "accent": "#C7A4D8",
+    "face": "#3D4350",
+    "shadow": "#91A8BD",
+    "background": "#F4ECF6"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "title": "Base Shapes",
+      "instruction": "On the Guides layer, draw a tall oval for the mirror glass. Add a slightly larger oval around it for the frame and a small base at the bottom.",
+      "hint": "Start with simple ovals before adding fancy frame details.",
+      "image": "./assets/lesson-images/whispering-mirror-step1.svg",
+      "procreate_layer": "Guides"
+    },
+    {
+      "step": 2,
+      "title": "Face Placement",
+      "instruction": "On the Sketch layer, place two soft eyes inside the mirror glass. Add arched eyebrows and a tiny whispering mouth.",
+      "hint": "A small sideways oval mouth makes Velvet look like she is quietly talking.",
+      "image": "./assets/lesson-images/whispering-mirror-step2.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 3,
+      "title": "Personality Details",
+      "instruction": "On the Sketch layer, add frame dots, moon smudges on the glass, cheek marks, and little curled whisper lines near the mouth.",
+      "hint": "Whisper lines are just two or three tiny curved strokes.",
+      "image": "./assets/lesson-images/whispering-mirror-step3.svg",
+      "procreate_layer": "Sketch"
+    },
+    {
+      "step": 4,
+      "title": "Clean Lineart",
+      "instruction": "On the Lineart layer, trace the mirror glass, frame, base, face, frame dots, moon smudges, and whisper lines.",
+      "hint": "Keep the frame simple so the face stays the main focus.",
+      "image": "./assets/lesson-images/whispering-mirror-step4.svg",
+      "procreate_layer": "Lineart"
+    },
+    {
+      "step": 5,
+      "title": "Color & Details",
+      "instruction": "On the Color + Details layer, fill the glass, frame, base, cheeks, and smudges. Add soft highlights on the glass and a shadow under the base.",
+      "hint": "A pale diagonal highlight helps the oval read as shiny mirror glass.",
+      "image": "./assets/lesson-images/whispering-mirror-step5.png",
+      "procreate_layer": "Color + Details"
+    }
+  ]
+}
