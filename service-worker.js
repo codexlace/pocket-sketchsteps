@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pocket-sketchsteps-v1.11.0-flat-assets';
+const CACHE_NAME = 'pocket-sketchsteps-v1.11.1-storage-fix';
 const APP_SHELL = [
   "./index.html",
   "./manifest.webmanifest",
