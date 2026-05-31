@@ -1,0 +1,223 @@
+{
+  "emotion_palettes": {
+    "grumpy": [
+      "#4A3328",
+      "#3A2720",
+      "#E45757",
+      "#F2E8CF",
+      "#5C4B7A"
+    ],
+    "cozy": [
+      "#B98362",
+      "#F8E8B0",
+      "#7EA7A1",
+      "#D787C7",
+      "#3A2720"
+    ],
+    "bouncy": [
+      "#F8E8E8",
+      "#F4A6C8",
+      "#F7D774",
+      "#D787C7",
+      "#6D4C7D"
+    ],
+    "chaotic": [
+      "#4B8A5A",
+      "#A7D676",
+      "#F8E8B0",
+      "#F7D774",
+      "#2E4A7D"
+    ]
+  },
+  "magic_palettes": {
+    "soft-spell": [
+      "#E4C7FF",
+      "#F7D774",
+      "#A7F3D0",
+      "#211934"
+    ],
+    "moonlit": [
+      "#2E4A7D",
+      "#5C4B7A",
+      "#F2E8CF",
+      "#D787C7"
+    ]
+  },
+  "lesson_palettes": {
+    "marshmallow-creature": {
+      "body": "#FFF1E8",
+      "accent": "#F6B8C8",
+      "face": "#4B3935",
+      "shadow": "#D9BDB4",
+      "background": "#EEF4F7"
+    },
+    "sleepy-ghost": {
+      "body": "#F4F0FF",
+      "accent": "#FFD6A8",
+      "face": "#46384F",
+      "shadow": "#CFC5E8",
+      "background": "#EEF3F8"
+    },
+    "tiny-dragon": {
+      "body": "#A8D8B9",
+      "accent": "#F4B6A6",
+      "face": "#34483D",
+      "shadow": "#75A987",
+      "background": "#F7EEDC"
+    },
+    "jelly-blob-friend": {
+      "body": "#B8E8E1",
+      "accent": "#F7D28B",
+      "face": "#34524E",
+      "shadow": "#82C7BF",
+      "background": "#F3EEF8"
+    },
+    "star-sprite": {
+      "body": "#FFE08A",
+      "accent": "#B9C7F7",
+      "face": "#4B3D2E",
+      "shadow": "#D7B45E",
+      "background": "#EFEAF8"
+    },
+    "pocket-monster": {
+      "body": "#C9D9A7",
+      "accent": "#F1A7A0",
+      "face": "#3F4632",
+      "shadow": "#98AA78",
+      "background": "#F7EDE2"
+    },
+    "cloud-buddy": {
+      "body": "#EAF4F8",
+      "accent": "#F7D27A",
+      "face": "#3F4A50",
+      "shadow": "#B9D3DD",
+      "background": "#F5EEF7"
+    },
+    "plant-sprout-friend": {
+      "body": "#A9D89A",
+      "accent": "#E8B07E",
+      "face": "#394D34",
+      "shadow": "#78A86D",
+      "background": "#F6EEDC"
+    },
+    "cozy-mushroom-creature": {
+      "body": "#F5D8B8",
+      "accent": "#D98C8C",
+      "face": "#4B3A35",
+      "shadow": "#C9A17D",
+      "background": "#EEF3E6"
+    },
+    "fuzzy-dust-bunny": {
+      "body": "#CFC7BF",
+      "accent": "#F2B7C6",
+      "face": "#403A36",
+      "shadow": "#A99F98",
+      "background": "#F5EFE8"
+    },
+    "crystal-companion": {
+      "body": "#BDEAF2",
+      "accent": "#D7B8F2",
+      "face": "#344A52",
+      "shadow": "#86B9C4",
+      "background": "#F4EEF8"
+    },
+    "rune-stone-buddy": {
+      "body": "#AEB8A2",
+      "accent": "#D7C58A",
+      "face": "#394238",
+      "shadow": "#7F8D78",
+      "background": "#F3EBDD"
+    },
+    "floating-hourglass": {
+      "body": "#D8C5F2",
+      "accent": "#F2D28B",
+      "face": "#46394F",
+      "shadow": "#A795C7",
+      "background": "#EEF3F7"
+    },
+    "enchanted-compass": {
+      "body": "#E2B979",
+      "accent": "#A7D8C7",
+      "face": "#4B3A2E",
+      "shadow": "#B98D55",
+      "background": "#F6EDE2"
+    },
+    "whispering-mirror": {
+      "body": "#C9D8E8",
+      "accent": "#C7A4D8",
+      "face": "#3D4350",
+      "shadow": "#91A8BD",
+      "background": "#F4ECF6"
+    },
+    "dream-bottle": {
+      "body": "#B7DDF2",
+      "accent": "#F4C7D8",
+      "face": "#344658",
+      "shadow": "#83B3CF",
+      "background": "#F7F0E8"
+    },
+    "lucky-coin-familiar": {
+      "body": "#E2B46F",
+      "accent": "#F7DFA2",
+      "face": "#4A3828",
+      "shadow": "#B88448",
+      "background": "#EEF5E8"
+    },
+    "magic-feather-charm": {
+      "body": "#F4D6E6",
+      "accent": "#B9D7F2",
+      "face": "#4B3B4A",
+      "shadow": "#C69CB6",
+      "background": "#F6F1DE"
+    },
+    "ink-bottle-spirit": {
+      "body": "#8EA4D8",
+      "accent": "#D7C1F2",
+      "face": "#2F3650",
+      "shadow": "#667DB3",
+      "background": "#F1EDE5"
+    },
+    "floating-scroll-friend": {
+      "body": "#F1D7A8",
+      "accent": "#C7A4D8",
+      "face": "#4A392E",
+      "shadow": "#C7A16E",
+      "background": "#EEF4F0"
+    },
+    "silly-eyes-sheet": {
+      "body": "#F4D7E8",
+      "accent": "#B9D8F2",
+      "face": "#3F3442",
+      "shadow": "#C8A5BA",
+      "background": "#F7F1E3"
+    },
+    "monster-mouths-sheet": {
+      "body": "#D8E8B8",
+      "accent": "#F4A8A8",
+      "face": "#3D4532",
+      "shadow": "#A9BF82",
+      "background": "#F6EDE2"
+    },
+    "emotion-wheel-character": {
+      "body": "#F2D6A8",
+      "accent": "#B8D7C2",
+      "face": "#4A392F",
+      "shadow": "#C9A16E",
+      "background": "#F1EEF8"
+    },
+    "cute-creepy-expressions": {
+      "body": "#EDE8FF",
+      "accent": "#F6B7C8",
+      "face": "#46384F",
+      "shadow": "#C7BFE2",
+      "background": "#F7F0E4"
+    },
+    "blueprint-buddy-simple-character": {
+      "body": "#B8D8F2",
+      "accent": "#F4C7A8",
+      "face": "#344454",
+      "shadow": "#86AFCF",
+      "background": "#F5F0DF"
+    }
+  }
+}

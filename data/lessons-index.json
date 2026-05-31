@@ -1,0 +1,403 @@
+{
+  "app_name": "Pocket SketchSteps",
+  "version": "1.5.0",
+  "sections": [
+    {
+      "id": "living-object",
+      "title": "Living Objects",
+      "lesson_ids": [
+        "grumpy-book",
+        "cozy-mug-friend",
+        "sleepy-lamp",
+        "chatty-notebook",
+        "magic-pencil",
+        "enchanted-eraser",
+        "sassy-scissors",
+        "potion-bottle-buddy",
+        "floating-candle-friend",
+        "spellbook-familiar"
+      ]
+    },
+    {
+      "id": "cute-creature",
+      "title": "Cute Creatures",
+      "lesson_ids": [
+        "marshmallow-friend",
+        "marshmallow-creature",
+        "sleepy-ghost",
+        "tiny-dragon",
+        "jelly-blob-friend",
+        "star-sprite",
+        "pocket-monster",
+        "cloud-buddy",
+        "plant-sprout-friend",
+        "cozy-mushroom-creature",
+        "fuzzy-dust-bunny"
+      ]
+    },
+    {
+      "id": "mini-monster",
+      "title": "Mini Monsters",
+      "lesson_ids": []
+    },
+    {
+      "id": "magic-items",
+      "title": "Magic Items",
+      "lesson_ids": [
+        "crystal-companion",
+        "rune-stone-buddy",
+        "floating-hourglass",
+        "enchanted-compass",
+        "whispering-mirror",
+        "dream-bottle",
+        "lucky-coin-familiar",
+        "magic-feather-charm",
+        "ink-bottle-spirit",
+        "floating-scroll-friend"
+      ]
+    },
+    {
+      "id": "expressions-faces",
+      "title": "Expressions & Faces",
+      "lesson_ids": [
+        "silly-eyes-sheet",
+        "monster-mouths-sheet",
+        "emotion-wheel-character",
+        "cute-creepy-expressions",
+        "blueprint-buddy-simple-character"
+      ]
+    },
+    {
+      "id": "practice-sheets",
+      "title": "Practice Sheets",
+      "lesson_ids": []
+    }
+  ],
+  "lessons": [
+    {
+      "id": "grumpy-book",
+      "title": "Grumpy Book",
+      "character_name": "Professor Crinklepage",
+      "category": "living-object",
+      "estimated_minutes": 18,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/grumpy-book-step1.svg"
+    },
+    {
+      "id": "cozy-mug-friend",
+      "title": "Cozy Mug Friend",
+      "character_name": "Mallow Sipkins",
+      "category": "living-object",
+      "estimated_minutes": 16,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/cozy-mug-friend-step1.svg"
+    },
+    {
+      "id": "sleepy-lamp",
+      "title": "Sleepy Lamp",
+      "character_name": "Nora Glowblink",
+      "category": "living-object",
+      "estimated_minutes": 17,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/sleepy-lamp-step1.svg"
+    },
+    {
+      "id": "chatty-notebook",
+      "title": "Chatty Notebook",
+      "character_name": "Pippa Scribbletalk",
+      "category": "living-object",
+      "estimated_minutes": 18,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/chatty-notebook-step1.svg"
+    },
+    {
+      "id": "magic-pencil",
+      "title": "Magic Pencil",
+      "character_name": "Fizzwick Point",
+      "category": "living-object",
+      "estimated_minutes": 15,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/magic-pencil-step1.svg"
+    },
+    {
+      "id": "enchanted-eraser",
+      "title": "Enchanted Eraser",
+      "character_name": "Bumble Smudge",
+      "category": "living-object",
+      "estimated_minutes": 14,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/enchanted-eraser-step1.svg"
+    },
+    {
+      "id": "sassy-scissors",
+      "title": "Sassy Scissors",
+      "character_name": "Snipella Spark",
+      "category": "living-object",
+      "estimated_minutes": 19,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/sassy-scissors-step1.svg"
+    },
+    {
+      "id": "potion-bottle-buddy",
+      "title": "Potion Bottle Buddy",
+      "character_name": "Bramblebubble",
+      "category": "living-object",
+      "estimated_minutes": 20,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/potion-bottle-buddy-step1.svg"
+    },
+    {
+      "id": "floating-candle-friend",
+      "title": "Floating Candle Friend",
+      "character_name": "Wicksy Wisp",
+      "category": "living-object",
+      "estimated_minutes": 17,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/floating-candle-friend-step1.svg"
+    },
+    {
+      "id": "spellbook-familiar",
+      "title": "Spellbook Familiar",
+      "character_name": "Mossmarg the Mild",
+      "category": "living-object",
+      "estimated_minutes": 21,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/spellbook-familiar-step1.svg"
+    },
+    {
+      "id": "marshmallow-friend",
+      "title": "Bubblebun the Marshmallow Creature",
+      "character_name": "Bubblebun",
+      "category": "cute-creature",
+      "estimated_minutes": 9,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/marshmallow-friend-step1.svg"
+    },
+    {
+      "id": "marshmallow-creature",
+      "title": "Marshmallow Creature",
+      "character_name": "Puff Nibble",
+      "category": "cute-creature",
+      "estimated_minutes": 16,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/marshmallow-creature-step1.svg"
+    },
+    {
+      "id": "sleepy-ghost",
+      "title": "Sleepy Ghost",
+      "character_name": "Mimi Moonmurmur",
+      "category": "cute-creature",
+      "estimated_minutes": 15,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/sleepy-ghost-step1.svg"
+    },
+    {
+      "id": "tiny-dragon",
+      "title": "Tiny Dragon",
+      "character_name": "Brindle Puffscale",
+      "category": "cute-creature",
+      "estimated_minutes": 22,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/tiny-dragon-step1.svg"
+    },
+    {
+      "id": "jelly-blob-friend",
+      "title": "Jelly Blob Friend",
+      "character_name": "Gloopy Junebug",
+      "category": "cute-creature",
+      "estimated_minutes": 14,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/jelly-blob-friend-step1.svg"
+    },
+    {
+      "id": "star-sprite",
+      "title": "Star Sprite",
+      "character_name": "Twila Flickerfeet",
+      "category": "cute-creature",
+      "estimated_minutes": 18,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/star-sprite-step1.svg"
+    },
+    {
+      "id": "pocket-monster",
+      "title": "Pocket Monster",
+      "character_name": "Norb Buttonsnack",
+      "category": "cute-creature",
+      "estimated_minutes": 19,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/pocket-monster-step1.svg"
+    },
+    {
+      "id": "cloud-buddy",
+      "title": "Cloud Buddy",
+      "character_name": "Nimbus Noodle",
+      "category": "cute-creature",
+      "estimated_minutes": 15,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/cloud-buddy-step1.svg"
+    },
+    {
+      "id": "plant-sprout-friend",
+      "title": "Plant Sprout Friend",
+      "character_name": "Peep Rootlet",
+      "category": "cute-creature",
+      "estimated_minutes": 17,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/plant-sprout-friend-step1.svg"
+    },
+    {
+      "id": "cozy-mushroom-creature",
+      "title": "Cozy Mushroom Creature",
+      "character_name": "Toadstool Tilly",
+      "category": "cute-creature",
+      "estimated_minutes": 20,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/cozy-mushroom-creature-step1.svg"
+    },
+    {
+      "id": "fuzzy-dust-bunny",
+      "title": "Fuzzy Dust Bunny",
+      "character_name": "Linty Lops",
+      "category": "cute-creature",
+      "estimated_minutes": 16,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/fuzzy-dust-bunny-step1.svg"
+    },
+    {
+      "id": "crystal-companion",
+      "title": "Crystal Companion",
+      "character_name": "Glint Pebblewish",
+      "category": "magic-items",
+      "estimated_minutes": 18,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/crystal-companion-step1.svg"
+    },
+    {
+      "id": "rune-stone-buddy",
+      "title": "Rune Stone Buddy",
+      "character_name": "Moss Runecrumb",
+      "category": "magic-items",
+      "estimated_minutes": 17,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/rune-stone-buddy-step1.svg"
+    },
+    {
+      "id": "floating-hourglass",
+      "title": "Floating Hourglass",
+      "character_name": "Sandy Tickletime",
+      "category": "magic-items",
+      "estimated_minutes": 21,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/floating-hourglass-step1.svg"
+    },
+    {
+      "id": "enchanted-compass",
+      "title": "Enchanted Compass",
+      "character_name": "Pip Northwhisper",
+      "category": "magic-items",
+      "estimated_minutes": 20,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/enchanted-compass-step1.svg"
+    },
+    {
+      "id": "whispering-mirror",
+      "title": "Whispering Mirror",
+      "character_name": "Velvet Lookinglass",
+      "category": "magic-items",
+      "estimated_minutes": 22,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/whispering-mirror-step1.svg"
+    },
+    {
+      "id": "dream-bottle",
+      "title": "Dream Bottle",
+      "character_name": "Luma Drowsydrop",
+      "category": "magic-items",
+      "estimated_minutes": 20,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/dream-bottle-step1.svg"
+    },
+    {
+      "id": "lucky-coin-familiar",
+      "title": "Lucky Coin Familiar",
+      "character_name": "Copper Winkworth",
+      "category": "magic-items",
+      "estimated_minutes": 16,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/lucky-coin-familiar-step1.svg"
+    },
+    {
+      "id": "magic-feather-charm",
+      "title": "Magic Feather Charm",
+      "character_name": "Fenna Fluffspell",
+      "category": "magic-items",
+      "estimated_minutes": 17,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/magic-feather-charm-step1.svg"
+    },
+    {
+      "id": "ink-bottle-spirit",
+      "title": "Ink Bottle Spirit",
+      "character_name": "Niblet Blot",
+      "category": "magic-items",
+      "estimated_minutes": 21,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/ink-bottle-spirit-step1.svg"
+    },
+    {
+      "id": "floating-scroll-friend",
+      "title": "Floating Scroll Friend",
+      "character_name": "Parchment Peep",
+      "category": "magic-items",
+      "estimated_minutes": 19,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/floating-scroll-friend-step1.svg"
+    },
+    {
+      "id": "silly-eyes-sheet",
+      "title": "Silly Eyes Sheet",
+      "character_name": "Blinko Peepers",
+      "category": "expressions-faces",
+      "estimated_minutes": 18,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/silly-eyes-sheet-step1.svg"
+    },
+    {
+      "id": "monster-mouths-sheet",
+      "title": "Monster Mouths Sheet",
+      "character_name": "Chompkin Doodlejaw",
+      "category": "expressions-faces",
+      "estimated_minutes": 20,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/monster-mouths-sheet-step1.svg"
+    },
+    {
+      "id": "emotion-wheel-character",
+      "title": "Emotion Wheel Character",
+      "character_name": "Moodie Turnabout",
+      "category": "expressions-faces",
+      "estimated_minutes": 22,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/emotion-wheel-character-step1.svg"
+    },
+    {
+      "id": "cute-creepy-expressions",
+      "title": "Cute-Creepy Expressions",
+      "character_name": "Mina Spooksmile",
+      "category": "expressions-faces",
+      "estimated_minutes": 21,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/cute-creepy-expressions-step1.svg"
+    },
+    {
+      "id": "blueprint-buddy-simple-character",
+      "title": "Blueprint Buddy (Simple Character)",
+      "character_name": "Bibi Guideline",
+      "category": "expressions-faces",
+      "estimated_minutes": 19,
+      "difficulty": "Beginner",
+      "thumbnail": "./assets/lesson-images/blueprint-buddy-simple-character-step1.svg"
+    }
+  ],
+  "subtitle": "Draw Your Own Tiny Familiars"
+}
