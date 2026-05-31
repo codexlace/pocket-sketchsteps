@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#162B56">
+  <meta name="description" content="Pocket SketchSteps helps you draw your own tiny familiars with step-by-step cozy character lessons.">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./assets/icons/icon-192.png">
+  <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png">
+  <title>Pocket SketchSteps</title>
+  <link rel="stylesheet" href="./css/tokens.css">
+  <link rel="stylesheet" href="./css/layout.css">
+  <link rel="stylesheet" href="./css/components.css">
+  <link rel="stylesheet" href="./css/theme.css">
+</head>
+<body>
+  <a class="skip-link" href="#step-title">Skip to current step</a>
+  <div class="app-shell">
+    <header class="topbar">
+      <button id="menu-toggle" class="icon-button mobile-only" aria-label="Open lesson library">☰</button>
+      <div class="brand">
+        <img src="./assets/icons/icon-192.png" alt="" width="44" height="44">
+        <div>
+          <h1>Pocket SketchSteps</h1>
+          <p id="welcome-note">Draw Your Own Tiny Familiars</p>
+        </div>
+      </div>
+      <div class="top-actions">
+        <span class="mode-chip">Cozy sketchbook mode</span>
+        <button id="generator-button" class="ghost-button">Idea Generator</button>
+        <button id="install-button" class="primary-button" hidden>Install</button>
+      </div>
+    </header>
+
+    <main class="workspace" id="workspace">
+      <aside class="lesson-panel" id="lesson-panel" aria-label="Lesson library">
+        <div class="field-guide-card">
+          <p class="eyebrow">Tiny familiar field guide</p>
+          <h2>Pick a recipe, draw beside Procreate.</h2>
+          <p>Swipe steps, open guides, and use the layer tip when you need a quick nudge.</p>
+        </div>
+        <div class="panel-head">
+          <h2>Collections</h2>
+          <button id="close-menu" class="icon-button mobile-only" aria-label="Close lesson library">×</button>
+        </div>
+        <label class="search-box">
+          <span>Search lessons</span>
+          <input id="lesson-search" type="search" placeholder="book, mug, monster...">
+        </label>
+        <div id="lesson-sections" class="lesson-sections"></div>
+      </aside>
+
+      <section class="image-panel" aria-label="Step image viewer">
+        <div class="image-toolbar">
+          <div>
+            <p class="eyebrow" id="lesson-category">Lesson</p>
+            <h2 id="lesson-title">Loading...</h2>
+            <p class="viewer-note">Tap image to zoom • Swipe to change steps</p>
+          </div>
+          <div class="toolbar-buttons">
+            <button id="overlay-toggle" class="ghost-button" aria-pressed="false">Guides</button>
+            <button id="palette-button" class="ghost-button">Palette</button>
+            <button id="bio-button" class="ghost-button">Bio</button>
+          </div>
+        </div>
+        <button id="image-zoom-button" class="step-image-wrap" aria-label="Zoom current step image">
+          <img id="step-image" class="step-image" alt="">
+          <svg id="overlay-svg" class="overlay-svg" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true"></svg>
+        </button>
+        <div id="step-dots" class="step-dots" aria-label="Step chooser"></div>
+      </section>
+
+      <aside class="instruction-panel" aria-label="Step instructions">
+        <div class="instruction-card-label">Drawing recipe card</div>
+        <div class="progress-row">
+          <span id="step-count">Step 1 of 1</span>
+          <button id="complete-step" class="ghost-button">Mark Complete</button>
+        </div>
+        <h2 id="step-title">Step title</h2>
+        <p id="step-instruction" class="instruction-text"></p>
+        <p id="step-hint" class="hint-text"></p>
+        <div class="toggle-row">
+          <label><input id="layer-tip-toggle" type="checkbox"> Show Procreate layer tip</label>
+        </div>
+        <p id="layer-tip" class="layer-tip" hidden></p>
+        <div id="palette-swatches" class="palette-swatches" aria-label="Lesson color palette"></div>
+        <div class="nav-buttons">
+          <button id="prev-step" class="secondary-button">Previous</button>
+          <button id="next-step" class="primary-button">Next</button>
+        </div>
+        <label class="jump-select">Jump to step
+          <select id="jump-step"></select>
+        </label>
+      </aside>
+    </main>
+  </div>
+
+  <dialog id="modal" class="modal">
+    <button id="modal-close" class="icon-button modal-close" aria-label="Close">×</button>
+    <div id="modal-content"></div>
+  </dialog>
+
+  <script type="module" src="./js/app.js"></script>
+  <script src="./sw-register.js"></script>
+</body>
+</html>
