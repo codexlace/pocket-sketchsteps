@@ -109,3 +109,33 @@ This build applies the cozy sketchbook + blueprint UI direction for Pocket Sketc
 - User-provided ghost badge icon exported as 192px, 512px, 1024px, Apple touch icon, and maskable PWA icon.
 - Service worker cache updated to `pocket-sketchsteps-v1.6.0`.
 
+
+
+## v1.7.0 note
+
+The first 10 lessons now use **SVG step diagrams** for steps 1–4 and **PNG** for step 5 color/reference images. This keeps guide steps crisp while preserving painterly final reference art.
+
+
+## v1.8.0 note
+
+The next 10 lessons now use **SVG step diagrams** for steps 1–4 and keep **PNG** for step 5 color/reference images. The first 20 lessons now use the SVG-first format without removing any existing lessons, icons, JSON files, or PNG final references.
+
+
+## v1.9.0 note
+
+All 36 lessons now use **SVG guide steps** for steps 1–4 and keep **PNG** for step 5 final color/reference images. This preserves crisp zoomable tutorials while keeping the painted final step style.
+
+## v1.10.0 note
+
+Polished and unified the SVG lesson guide style across all 36 lessons. The SVG steps now share a softer field-guide look, improved guide-line colors, consistent vector rendering, subtle ambient paper lighting, softened blueprint grids, and small board-pin accents while preserving all existing lessons, PNG final references, icons, data, and app behavior.
+
+
+## v1.11.0 note
+
+Lesson images have been flattened into a single folder:
+
+```text
+assets/lesson-images/
+```
+
+The app no longer requires one separate image folder per lesson under `assets`. All lesson JSON files, thumbnails, and the service worker cache were updated to use flat filenames such as `grumpy-book-step1.svg`.
